@@ -1,0 +1,12 @@
+{
+  "name": "api-automation-ds-batch5-sesi7",
+  "version": "1.0.0",
+  "description": "API automation menggunakan Supertest, Mocha dan Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
